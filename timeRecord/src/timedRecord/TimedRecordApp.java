@@ -19,6 +19,7 @@ public class TimedRecordApp {
 		lst.add(timed2);
 		lst.add(timed3);
 		lst.add(timed4);
+		
 		lst.add(new TimedRecordImpl(8, 15));
 		
 		//for i from 0 to the end of lst - 1 
