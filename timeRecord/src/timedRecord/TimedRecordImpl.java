@@ -6,7 +6,6 @@ public class TimedRecordImpl implements TimedRecord {
 	
 	long end;
 	
-	
 	public TimedRecordImpl(long start, long end) {
 		super();
 		this.start = start;
